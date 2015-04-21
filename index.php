@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="">
 </head>
 <body>
-	<div class="wrapl">
+	<div class="wrap">
 	
 	</div>
 </body>
